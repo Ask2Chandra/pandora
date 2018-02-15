@@ -10,5 +10,9 @@
 ### Learning Smart Contract:
 
 - Learn to Code Ethereum DApps By Building Your Own Game https://cryptozombies.io/
+- Solidity code sharing site https://ethfiddle.com/
+- SolidityX: Secure-by-default programming language that compiles to Solidity https://solidityx.org/
+- Like AWS for Ethereum, deploy and test commercial-scale applications in seconds. https://ethdeploy.com/
+
   
   
